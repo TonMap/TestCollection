@@ -1,7 +1,7 @@
 {
     "name": "First test 22.12.2022 11:00 am",
     "description": "testing a creation of collection via tonsdk",
-    "image": "https://github.com/TonMap/TestCollection/blob/main/tonmap_logo_white.png?raw=true",
+    "image": "https://raw.githubusercontent.com/TonMap/TestCollection/main/tonmap_logo_white.png",
     "social_links": [
         "https://t.me/tonmap_news"
     ]
